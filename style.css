@@ -47,7 +47,7 @@ body {
   box-shadow: 4px 4px 5px rgba(250, 50, 50, .4);
   display: inline-block;
 }
-.no-right-margin{
+.card:nth-of-type(even){
   margin-right: 0;
 }
 .card-title {
